@@ -65,3 +65,7 @@ background: rgb(194, 194, 194);
 .selected td {
 color: black;
 }
+
+.sorted th {
+background: #3D127F;
+}
